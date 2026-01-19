@@ -57,14 +57,13 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nikhilsah-pr&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
 
-
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsah-pr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhilsah-pr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
   <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nikhilsah-pr&theme=dark&hide_border=false" />
+  
   <br>
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhilsah-pr&layout=compact&theme=tokyonight" alt="Top Languages" />
