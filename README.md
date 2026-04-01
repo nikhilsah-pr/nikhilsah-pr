@@ -27,7 +27,7 @@
 ### Frontend Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 ### Others
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
   </a>
 </p>
 
